@@ -56,7 +56,7 @@ function MessagesScreen(props) {
               description: "D2",
               image: require("../assets/mosh.jpg"),
             },
-          ]);
+          ]);  
         }}
       />
     </Screen>
